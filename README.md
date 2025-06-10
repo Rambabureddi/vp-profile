@@ -1,7 +1,12 @@
 # Prerequisites
 #
+<<<<<<< HEAD
 - JDK 17 or 21
 - Maven 3.9
+=======
+- JDK 11 
+- Maven 3 
+>>>>>>> bc00766 (Update README.md)
 - MySQL 8
 
 # Technologies 
